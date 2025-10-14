@@ -26,8 +26,6 @@ A real-time Linux system monitoring dashboard that displays CPU, memory, disk, a
   WSL/Ubuntu with Node.js
   Git for version control
 
-## Installation & Setup
-
 ### 1. Install Node.js
 ```bash
 sudo apt update
@@ -41,7 +39,6 @@ bash
 cd backend && npm start
 
 # Browser: http://localhost:3000
-
 Features:
 Real-time CPU, Memory, Disk monitoring
 
