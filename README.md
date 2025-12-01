@@ -47,3 +47,4 @@ Live system statistics
 Dark/Light mode
 
 Automatic updates every 10 seconds
+Ashu Yadav
